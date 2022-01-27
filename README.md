@@ -1,5 +1,5 @@
 # MIPS processor
-## MIPS Processor is introduced by Prof. Kunz in lecture 5 of ADS 
+## MIPS Processor as introduced by Prof. Kunz in lecture 5 of ADS 
 
 This is an implementation of a sequential 32 bit MIPS processor.  This is a basic implementation of MIPS instructions and requires the external memory to test
 
